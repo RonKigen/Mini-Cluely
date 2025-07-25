@@ -1,0 +1,6 @@
+{
+    "API_URL": "Your large model API URL. Recommended to use Google Gemini API. Check Google AI Studio for API usage instructions.",
+    "MODEL_NAME": "gemini-2.0-flash",
+    "GOOGLE_API_KEY": "AIzaSyA0NM-XhpEx5fe2BaeaXntj_QJJINuJcks",
+    "tesseract_path":  "C:\\Users\\ronal\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe"
+}
